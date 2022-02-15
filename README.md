@@ -1,2 +1,1 @@
-# Petshop
-Hello, this ir our proyect.
+Web proyect.
